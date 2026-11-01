@@ -1,0 +1,7 @@
+langgraph-checkpoint-mongodb==0.2.0
+langchain-openai==0.3.28
+langchain-mongodb==0.6.2
+langgraph==0.6.3
+pymongo==4.13.2
+pydantic==2.11.9
+python-dotenv==1.0.0
